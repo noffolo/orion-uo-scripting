@@ -6,7 +6,7 @@
 // then it will launch an explo potion [with 1-2 sec. of delay] 
 // and cast another Mindblast, on the same target. 
 
-// The mana cost of this sequence is 20 [Explo] + 16 [Mindblast] * 2 = 44 mana
+// The mana cost of this sequence is 20 [Explo] + 16 [Mindblast] * 2 = 42 mana
 // The spells will be casted with the right delay.
 
 
