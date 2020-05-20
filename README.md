@@ -5,24 +5,24 @@ This repository was created to collect and organize macros for ORION UO (an open
 
 The repo is organized in this way:
 
-• PVP
+        • PVP
 
-        • offensive
-            • combo
-            • basic actions
-            • abilities
-            • …
-            
-        • defensive
-            • my-personal-healer
-            • bless and co
-            • …
+                • offensive
+                    • combo
+                    • basic actions
+                    • abilities
+                    • …
 
-• utilities
+                • defensive
+                    • my-personal-healer
+                    • bless and co
+                    • …
 
-• crafting
+        • utilities
 
-• misc
+        • crafting
+
+        • misc
 
 Feel yourself free to contribuite =) and use everything as you want.
 
