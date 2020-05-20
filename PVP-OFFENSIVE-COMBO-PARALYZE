@@ -3,7 +3,7 @@
 // an explo potion [with 1-2 sec. of delay]…
 // And then another one Mindblast.
 
-// The mana cost of this sequence is 20 [Explo] + 16 [Mindblast] * 3 = 58 mana
+// The mana cost of this sequence is 14 [Parlayze] + 20 [Explo] + 16 [Mindblast] * 2 = 66 mana
 // The spells will be casted with the right delay.
 
 
