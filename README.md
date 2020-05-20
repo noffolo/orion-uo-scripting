@@ -6,7 +6,8 @@ This repository was created to collect and organize macros for ORION UO (an open
 The repo is organized in this way:
 
 • PVP
-    • offensive
+
+        • offensive
             • combo
             • basic actions
             • abilities
