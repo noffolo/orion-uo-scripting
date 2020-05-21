@@ -3,6 +3,7 @@ Orion.Cast("Explosion", Orion.TargetSystemSerial());
 Orion.Wait('2450');
 Orion.ClearJournal();
 Orion.UseWrestlingStun();
+Orion.CharPrint(self, Orion.Random(0,255), "ACTIVE");
 Orion.Wait('100');
 Orion.Attack(Orion.TargetSystemSerial());
 Orion.CharPrint(self, 0xFFFF, "GO!");
@@ -10,6 +11,7 @@ Orion.Wait('1550');
 if (Orion.WaitJournal("successfully", Orion.Now(), Orion.Now() + 3000, "sys")){
 Orion.CharPrint(self, Orion.Random(0, 50), "SUCCESS!");
 Orion.UseWrestlingStun();
+Orion.CharPrint(self, Orion.Random(0,255), "INACTIVE");
 Orion.Cast("Mind Blast", Orion.TargetSystemSerial());
 Orion.Wait('100');
 
@@ -25,3 +27,4 @@ Orion.Wait('2050');
 Orion.CharPrint(self, Orion.Random(0, 50), "3 - CASTING MINDBLAST");
 Orion.Cast("Mind Blast", Orion.TargetSystemSerial());
 }
+
